@@ -7,6 +7,8 @@ so far we got:
 - changing the element to be placed (scrolling)
 - powder elements piling up
 
+this game uses SFML 
+
 i added comments and stuff
 
 the real good stuff is in the .cpp file
